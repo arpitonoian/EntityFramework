@@ -4,7 +4,7 @@ namespace LibraryDB
 {
     public class Author
     {
-        public int ID { get; set; }
+        public int Id { get; set; }
 
         public string LastName { get; set; }
 
@@ -14,7 +14,7 @@ namespace LibraryDB
 
         public override string ToString()
         {
-            return ID + " " + FirstName + " " + LastName;
+            return Id+ " " + FirstName + " " + LastName;
         }
     }
 }

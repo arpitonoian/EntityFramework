@@ -58,9 +58,9 @@
     <Compile Include="Library\Author.cs" />
     <Compile Include="Library\Book.cs" />
     <Compile Include="LibraryContext.cs" />
-    <Compile Include="Migrations\202101111720417_ui.cs" />
-    <Compile Include="Migrations\202101111720417_ui.designer.cs">
-      <DependentUpon>202101111720417_ui.cs</DependentUpon>
+    <Compile Include="Migrations\202101121138334_ui.cs" />
+    <Compile Include="Migrations\202101121138334_ui.designer.cs">
+      <DependentUpon>202101121138334_ui.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
@@ -71,8 +71,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202101111720417_ui.resx">
-      <DependentUpon>202101111720417_ui.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202101121138334_ui.resx">
+      <DependentUpon>202101121138334_ui.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
