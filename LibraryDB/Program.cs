@@ -24,7 +24,6 @@ namespace LibraryDB
                     var t = 0;
                     foreach (var q in query)
                     {
-
                         if (t != q.b.b1.Id)
                         {
                             Console.WriteLine();
