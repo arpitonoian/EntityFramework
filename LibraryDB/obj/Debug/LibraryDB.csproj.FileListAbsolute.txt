@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.Migrations.ui.resources
+C:\Users\User\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibraryDB\LibraryDB\bin\Debug\LibraryDB.exe.config
+C:\Users\User\source\repos\LibraryDB\LibraryDB\bin\Debug\LibraryDB.exe
+C:\Users\User\source\repos\LibraryDB\LibraryDB\bin\Debug\LibraryDB.pdb
+C:\Users\User\source\repos\LibraryDB\LibraryDB\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\LibraryDB\LibraryDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\LibraryDB\LibraryDB\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\LibraryDB\LibraryDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csproj.CopyComplete
+C:\Users\User\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.exe
+C:\Users\User\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.pdb
+C:\Users\User\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csprojAssemblyReference.cache
